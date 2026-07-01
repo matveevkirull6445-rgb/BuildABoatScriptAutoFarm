@@ -1,1 +1,186 @@
-return(function(...)local K={"-QrqjwnLj","-ynXbw6eOLdjzL0L2","@K/KR@1PNN","-y032Y6daLrdX","-QhekB0D2xrdaYS38xbC2pi==","@a(o&u","-xhdr","-QhekB0D2xrdaYeL2w6Jtsbe2Y6JkGQ==";"@K?EFh1h\\6B)tp$U,0\"@","-nRCXxhLjG4==","@JY>(^.\\dN7.J","@,1]^!.<CHf1)","-dhj2DWdPxSjasWdAv6eaw6DjsF==";"-dyjcxrqaYnE=","-vS/RdnPbLtF0ph3Bp4==","@!N2%8liTm2\'LV;*\'b";"-D6Jiw63K";"-vbCkw6zQxbeJYnE=";"-Q0eaw0d5","@!lf]=\'Ldg:tsM*(i2#";"@W<";"@aoE#nKXlUqo[\'KMWc";"@KC`V`i=#\\Rc_";"@!UW7_W(Ba!,3,qo","-DjeqMjdty6CWwr37";"-v6e9xhjAD6Lj","@.r50\"!;prg5OrHCM:";"-L0dAy0d2DhjkYQ==";"@Y_^Ee1)";"@.<Cq9\'X","@=7jq>","@Ml*!:!U6H]","@Y:I`Si!H";"@t\"GNDY_9MYaH\'WV";"@KfA.pc>K(,!Uj76cm<","@YnqLIYnqFL.iOS*\\]r";"-dbduDS38xbC2pi==","-LhCaD4==","-D0eXD4==";"-sACj6SXys0zcdyR9";"-Les2dtd6syJypye5";"-ybzPG6d2si==","-yhdtYnLgxj3iwnDa","@K*2r<\'gI","@Y=\\Y#\'d<F7)bgk","@=TJ-I","-Q0CfsbzjDbd/","@.\\aKl","@JWd>&\'d8K+!`kd%=uVaZ","@JhshQi!pPZ","@Mm^VD\',flU,3Q,f";"@WH3u&","-dbduDSzPwhd5","@M\\\\HMTs";"-M0dJQ0C/YQ==";"@W2,;%1#=Ip.\'23#KCE4)\\a";"-yrYkQk7KMdqlyv7dw6i=";"-MrFipeD9lcdE3k3qDAy=","@KkYWNY*6tel1>`L1eS";"-y9day0d2DhjkYQ==";"-dbduDSqRDWL8xF==";"-d0eXD4==";"-nRC5Y6u=";"@!U6H]","@1$SuG=^l9@1hP","-Q0C2YyDRBQ==","@=7\\\'].\'o/5","@Ml*!:tikD!aonqf\'`,","-Y9q8xdqWQF==";"@KC`V`i=#\\Rc6to)1PQ","@K+?+I,3\\","-Q0C5xrEt";"-LWqPY0DPwhzj";"@T73ohtf7pV?j5^*";"@WHda*iM<","@Y:7kpa2Vn","@J2e^:,n#,Y1]Z%O";"@K/Y-S1h\\@_1JmTm","@KkYWNY*6teM\\F";"@a24`Ec>n","@X&4,*";"@Ml*!:";"-vbjXyyznQk32Bjpt","-dyLXxQ==","-iJs=";"-L6JRxQ==";"-yrLPs9QFQndAxAYPshA=";"@Mm^VD\'.VS&\'/","@=uVa*\'`,";"@KfA.pc>K("}local function J(J)return K[J-11967]end for J,x in ipairs({{1;90},{1,33},{34;90}})do while x[1]<x[2]do K[x[1]],K[x[2]],x[1],x[2]=K[x[2]],K[x[1]],x[1]+1,x[2]-1 end end do local J=math.floor local x=string.char local I={["\""]=7;Z=67,["!"]=26,S=62,_=54,Y=22;["3"]=4;j=6;["6"]=61;[":"]=81,p=60;["@"]=58,B=63,b=2,W=24,a=33;U=68,[";"]=14;J=23,["<"]=8;O=15;["2"]=75,["%"]=80,["4"]=40;["="]=25;K=21,A=43,Q=74;["]"]=71,t=28;["?"]=29;["^"]=44,["+"]=1;C=56;M=27;R=73;N=69;o=20;["1"]=32;f=83;["8"]=82;["9"]=18;r=9,h=51,e=50;["\'"]=35,k=3;["["]=84,["*"]=52;["#"]=46,i=31;D=65,d=41;["\\"]=34;P=49;[")"]=39;["`"]=42,q=48,[","]=38;s=5;u=70,H=47,[">"]=66,I=45,c=36,m=12,F=76,L=64,l=10;G=11;T=16;E=79,g=13;["."]=37;["("]=19,V=77;X=30;["7"]=72;["&"]=55,["0"]=59,["/"]=57,["-"]=0,["$"]=78,n=53;["5"]=17}local w={q=9,["4"]=0;N=59;b=6,x=27,T=60;["9"]=39,Z=34,K=43;i=48;s=28,["7"]=1;t=51;G=30;e=5,D=29;z=49,V=62,B=26,["/"]=36,["2"]=50;r=55;["5"]=44;["8"]=47;C=61;["1"]=31,U=2;f=45,p=12,v=19;h=38,H=42,X=41,S=4;I=58,g=15,P=33;J=57;c=3,y=20;L=17,m=63;n=23;d=21;["+"]=10,Q=16;["0"]=54,["3"]=13,M=18;W=7;E=8;o=11;u=56,k=35,j=37;O=40;["6"]=22,R=53,F=32;A=52;w=24;Y=25,a=46,l=14}local f=K local R=string.sub local d=table.insert local C=type local s=string.len local B=table.concat for K=1,#f,1 do local p=f[K]if C(p)=="string"then local C=R(p,1,1)if C=="-"then p=R(p,2)local I=s(p)local C={}local i=1 local G=0 local z=0 while i<=I do local K=R(p,i,i)local f=w[K]if f then G=G+f*(64^((3-z)))z=z+1 if z==4 then z=0 local K=J(G/65536)local I=J((G%65536)/256)local w=G%256 d(C,x(K,I,w))G=0 end elseif K=="="then d(C,x(J(G/65536)))if i>=I or R(p,i+1,i+1)~="="then d(C,x(J((G%65536)/256)))end break end i=i+1 end f[K]=B(C)elseif C=="@"then p=R(p,2)local w=s(p)local C={}local i=1 while i<=w do local K=(w-i)+1 local f=K>=5 and 5 or K local s=0 local B=f>1 for K=0,4,1 do local J if K<f then local x=R(p,i+K,i+K)J=I[x]if not J then B=false break end else J=84 end s=s*85+J end if B then local K=J(s/16777216)%256 local I=J(s/65536)%256 local w=J(s/256)%256 local R=s%256 if f==5 then d(C,x(K,I,w,R))elseif f==4 then d(C,x(K,I,w))elseif f==3 then d(C,x(K,I))elseif f==2 then d(C,x(K))end end i=i+f end f[K]=B(C)end end end end return(function(d,R,w,I,K,C,f,s,H,z,e,E,x,p,G,B,o,i,O)o,i,H,p,x,z,G,B,E,O,s,e=function(K,J)local I=G(J)local w=function(w,f,R,d)return x(K,{w;f;R;d},J,I)end return w end,0,function(K,J)local I=G(J)local w=function(w,f)return x(K,{w,f},J,I)end return w end,function()i=1+i B[i]=1 return i end,function(x,w,f,R)local U,A,l,D,W,T,m,u,P,z,C,F,b,V,Y,G,Z,n,B,c,N,g,O,j,r,y,i while x do if x>9727781 then if x>12506446 then if x>14076923 then if x>15175612 then if 15299593>x then x=y and 4791182 or 7035650 elseif x<15485904 then i,B,x=nil,nil,12526194 elseif x<16120059 then B=w[1]z=s[f[1]]O=J(12023)G=z[O]C,x,i=G,G and 13478016 or 8139334,w[2]else x,C=K[J(11984)],{}end else if x>14569898 then if x<14901828 then C,B,G,z,O,i={},nil,nil,nil,nil,nil j=e(j)x=K[J(12027)]else x=13302468 end else if x<14312325 then x=9753800 elseif 14407643>x then l=s[j]y=not l x,u=y and 13420370 or 12466190,y else C=s[f[1]]x=not C x=x and 1726639 or 9196137 end end end else if 13362456>x then if x<13136892 then if 12556475>x then C,x={},K[J(12057)]elseif 12779037>x then O=s[f[2]]z,x=not O,9490432 G=z else B=J(11992)C=s[f[3]]i,j=J(12016),182 C[B]=i x,O,z=2041005,196,J(11982)C=s[f[3]]B=J(12005)G=K[z]z=J(11979)i=G[z]z=46 G=i(z,O,j)C[B]=G i=J(12048)B=K[i]i=J(12030)C=B[i]i=s[f[6]]B=C(i)end else if x<13303505 then x=s[f[1]]x=x and 306545 or 1896364 else x,C=K[J(12022)],{}end end else if 13525710>x then if 13430469>x then V=s[f[6]]l,y=x,V x=V and 13440569 or 2874927 elseif 13459292>x then V=s[f[7]]y,x=V,2874927 else O=J(12023)z=s[f[1]]G=z[O]z=J(12036)z,O=G[z],J(12049)z=z(G,O)x,C=8139334,z end else if 13729894>x then x=2041005 else G=J(12023)i=s[f[3]]B=i[G]C,x=B,B and 10698599 or 12377341 end end end end else if x>11636321 then if x<12312949 then if 12063625>x then if 11720717>x then B=s[f[1]]x,C=B and 5652714 or 3512274,B elseif x<11897952 then x=C and 3831666 or 13304542 else u=J(12012)x=K[u]u=J(11986)y=s[f[5]]x[u]=y x=2919553 end else if 12158607>x then x=15369920 else C=J(12006)x=K[C]i=J(12051)y=p()B=w l=p()C=J(12028)C,G=x[C],J(11970)C=C(x,i)Y,O=-0.998781145,J(12013)i=p()s[i]=C U,C,r=-0.994466245,J(12006),.103564225 x=K[C]C,u=J(12028),J(12012)C=x[C]C=C(x,G)G=p()s[G]=C C,z,m,A=J(12006),J(12042),J(12044),-0.00183729955 x=K[C]C=J(12028)C,N=x[C],672.744934 C=C(x,z)z=C C=J(12006)x=K[C]C,P=J(12028),0 C=x[C]j=p()C=C(x,O)O=p()s[O]=C C=J(12018)x=z[C]s[j]=x C=K[u]n,u,F=-0.0177407414,J(11986),.994622767 x=C[u]u=p()s[u]=x x=2704571>4100582 s[y]=x g,x=-0.999842644,375 s[l]=x x=nil V=p()T=.017645346 s[V]=x W=K[m]m,b=J(12007),.103547923 C=W[m]D,m=62.1137619,-43.6134491 W=C(m,D,N,g,A,T,P,F,r,n,b,U)D,g=J(12044),8767.91406 m=K[D]c,D,A,r,U=-0.98221302,J(12007),-0.99889338,.999887645,-0.0149736926 C=m[D]N,D,P,T,F,n,b=97.4659729,-60.1504707,.0470264405,.000705028593,0,-0.0149902813,-0.047031723 m=C(D,N,g,A,T,P,F,r,n,b,U,Y)U,N,g,r,F=-0.187770084,J(12044),-345.398346,0,.187770084 D=K[N]N,A=J(12007),9488.60645 C=D[N]Y,b,P,T,n,N=0,0,0,-0.98221302,1,-54.331871 D={C(N,g,A,T,P,F,r,n,b,U,Y,c)}x={W;m,I(D)}m=p()W=p()s[W]=x A,D,x=J(12006),J(12050),9707824~=3330768 s[m]=x C=K[D]D=J(12007)x=C[D]g=K[A]D,A=J(12004),J(11976)N=g[A]C=x(D,N)D=p()s[D]=C C,N=J(12046),J(11989)x=s[D]x[C]=N N,P=2443738>=13478295,.4 x=s[D]C=J(12043)x[C]=N A,N=J(12054),J(12050)C=K[N]N=J(12007)x=C[N]N=J(12029)C=x(N)F,x,c=-92,J(11974),0 g=K[A]N,A,n=C,J(11975),28 C=g[A]T,A=185,260 g=C(A,T)N[x]=g x,A=J(11977),J(12054)g=K[A]T,A=-130,J(12007)C=g[A]A=.5 g=C(A,T,P,F)N[x]=g T,A,x=30,J(11982),J(12005)g=K[A]A,P=J(11979),36 C=g[A]A=30 g=C(A,T,P)N[x]=g x,C=J(12009),0 N[x]=C F,x,C=0,J(11981),6455172<14423388 N[x]=C C,x,P,T=2712764~=4425442,J(11983),10,J(11994)N[x]=C g,x=J(12050),J(11999)C=s[D]N[x]=C C=K[g]r,g=0,J(12007)x=C[g]g=J(12014)C=x(g)A=K[T]g,T,x=C,J(12007),J(11988)C=A[T]T=0 A=C(T,P)g[x]=A x,A,C=J(11999),J(12050),N g[x]=C C=K[A]P,A=J(12054),J(12007)x=C[A]A=J(12053)C=x(A)T=K[P]P,x,A=J(12007),J(11974),C C=T[P]P,Z=.6,0 T=C(P,F,r,n)P=J(12054)A[x]=T x=J(11977)T=K[P]r,F,n,P=0,0,8,J(12007)C=T[P]P=.08 T=C(P,F,r,n)P=J(11982)A[x]=T F,x,C=220,J(12008),1 A[x]=C x,C,r=J(11992),J(11969),225 A[x]=C n,x=0,J(12037)T=K[P]P=J(11979)C=T[P]P=220 T=C(P,F,r)b=28 A[x]=T x,F=J(12038),J(11996)P=K[F]F=J(12038)T=P[F]P=J(12033)C=T[P]A[x]=C F,C,x=J(11996),14,J(12032)A[x]=C x,r=J(11978),28 P=K[F]F=J(11978)T=P[F]P=J(12052)C=T[P]A[x]=C F,T,C,x=J(12054),J(12050),N,J(11999)A[x]=C C=K[T]T=J(12007)x=C[T]T=J(11971)C=x(T)x,T=J(11974),C P=K[F]F,U=J(12007),0 C=P[F]F=0 P=C(F,r,n,b)T[x]=P F,n,x,r=J(12054),0,J(11977),-36 P=K[F]F=J(12007)C=P[F]F,b=1,8 P=C(F,r,n,b)T[x]=P x,C=J(11992),J(11995)T[x]=C n,x,r=65,J(12038),J(11996)F=K[r]r=J(12038)P=F[r]r,F=60,J(12033)C=P[F]T[x]=C x,F,C=J(12032),J(11982),22 T[x]=C x=J(12005)P=K[F]F,z=J(11979),nil C=P[F]F=60 P=C(F,r,n)T[x]=P F,x=J(11982),J(12037)P=K[F]F,n=J(12007),1 C=P[F]F,r,Y=1,1,.32 P=C(F,r,n)T[x]=P n,x,C,P=6,J(11999),N,J(12050)T[x]=C C=K[P]P=J(12007)x=C[P]P=J(12014)C=x(P)r,x=J(11994),J(11988)F=K[r]P,r=C,J(12007)C=F[r]r=0 F=C(r,n)C=T P[x]=F x,F,b=J(11999),J(12050),J(12054)P[x]=C C=K[F]F=J(12007)x=C[F]F=J(11971)C=x(F)F=p()s[F]=C x=s[F]n=K[b]b=J(12007)r=n[b]C,b=J(11974),.86 n=r(b,U,Y,c)x[C]=n b=J(12054)x=s[F]C=J(11977)n=K[b]c,Y,U,b=0,.28,0,J(12007)r=n[b]b=.07 n=r(b,U,Y,c)x[C]=n x=s[F]U,r,C=J(11996),J(11997),J(11992)x[C]=r x=s[F]C=J(12038)b=K[U]U=J(12038)n=b[U]b=J(12033)r=n[b]b=J(11982)x[C]=r C,U=J(12032),134 x=s[F]r=15 x[C]=r x=s[F]C,Y=J(12005),255 n=K[b]b=J(11979)r=n[b]b=58 n=r(b,U,Y)Y,U,b=1,1,J(11982)x[C]=n x=s[F]n=K[b]C,A,b=J(12037),nil,J(12007)r=n[b]b=1 n=r(b,U,Y)U=8 x[C]=n r=N x=s[F]C=J(11999)x[C]=r r,b=J(12050),J(11994)C=K[r]r=J(12007)x=C[r]r=J(12014)C=x(r)x,r=J(11988),C n=K[b]c,b=.26,J(12007)C=n[b]b=0 n=C(b,U)r[x]=n n,x=J(12050),J(11999)C=s[F]r[x]=C U=J(12054)C=K[n]n=J(12007)x=C[n]Y,n=0,J(11971)C=x(n)x,n=J(11974),C b=K[U]U=J(12007)C=b[U]U=.86 b=C(U,Y,c,Z)n[x]=b U,Y,x=J(12054),0,J(11977)b=K[U]c,Z,U=.66,0,J(12007)C=b[U]U=.07 b=C(U,Y,c,Z)n[x]=b x,C=J(11992),J(12035)n[x]=C x,Y=J(12038),J(11996)U=K[Y]Y=J(12038)b=U[Y]U=J(12033)C=b[U]U=J(11982)n[x]=C c,x,C=50,J(12032),13 n[x]=C x=J(12005)b=K[U]U=J(11979)C=b[U]U,Y=230,50 b=C(U,Y,c)n[x]=b x,U=J(12037),J(11982)b=K[U]U,Y=J(12007),1 C=b[U]c,Z,U=1,J(12056),1 b=C(U,Y,c)n[x]=b x,b,C=J(11999),J(12050),N n[x]=C C=K[b]Y,b=J(11994),J(12007)x=C[b]b=J(12014)C=x(b)c=8 U=K[Y]b,x,Y=C,J(11988),J(12007)C=U[Y]Y=0 U=C(Y,c)Y=p()b[x]=U x,C=J(11999),n b[x]=C x=E(5438330,{m;y;u,V,D})C,U=J(12056),x x=T[C]C=J(12003)C=x[C]C=C(x,U)c,C=J(12048),J(12056)x=n[C]r,C=nil,J(12003)C=x[C]C=C(x,U)x=H(15601889,{j,l,i;V;u;y,m,G})s[Y]=x C=K[c]c=J(12030)x=C[c]i=e(i)c=o(15121958,{m,y,O})D=e(D)C=x(c)x=o(14267463,{y;m;j;W,Y})c=p()s[c]=x g,b=nil,nil l=e(l)C=s[F]U=nil G=e(G)x=C[Z]C=J(12003)Z=o(14458098,{m,y,F;u;V,c})V=e(V)O=e(O)C=x[C]C=C(x,Z)C=s[j]Z=J(11980)x=C[Z]C=J(12003)Z=E(1577441,{y;m,c})C=x[C]C=C(x,Z)F=e(F)C=s[j]Z=J(11980)x=C[Z]Z=E(11704123,{y;m,j;Y,W,c})T=nil c=e(c)y=e(y)n=nil m=e(m)j=e(j)C=J(12003)u=e(u)N,C=nil,x[C]W=e(W)Y=e(Y)C=C(x,Z)x,C,P=K[J(12002)],{},nil end end else if x<12389458 then G=J(11980)i=s[f[3]]B=i[G]i=J(11972)i=B[i]i=i(B)x,C=10698599,i elseif 12433883>x then i=s[f[3]]G=J(11980)B=i[G]i=J(11972)i,x=B[i],7345514 i=i(B)C=i elseif 12476444>x then x=u and 3321280 or 14681698 else x=C and 10326093 or 15369920 end end else if x>10766260 then if x<11238420 then if 10867688>x then C,x={},K[J(12020)]elseif x<11044394 then B=11324855~=2316411 x=s[f[3]]O=J(11996)z=K[O]O,C=J(12055),J(12024)C=x[C]G=z[O]z=J(12021)i=G[z]O,G=J(12006),9402010<=7211525 z=K[O]C=C(x,B,i,G,z)B=14313500<8264224 x=s[f[3]]O=J(11996)z=K[O]O=J(12055)G=z[O]z,O,C=J(12021),J(12006),J(12024)i=G[z]C=x[C]z=K[O]G=2741755<=1341688 C=C(x,B,i,G,z)x=2090546 else x=C and 10901455 or 2090546 end else if 11429013>x then i=s[f[3]]G=J(12023)B=i[G]x,C=B and 7345514 or 12401576,B else x=3728126 end end else if x<10204124 then if 9899302>x then B=s[f[1]]x,C=B and 1729855 or 4089305,B elseif 10063480>x then B=s[f[1]]C,x=B,11187333 else x=s[f[4]]G=s[f[5]]z=11258031<=2666507 C=x(G,z)G=J(12048)C=K[G]G=J(12030)x=C[G]G=s[f[6]]C=x(G)x=12068658 end else if x<10512346 then C,G=J(12039),1 x=K[C]C=x(G)x=s[f[2]]x=x and 10082156 or 12068658 else x,B,i=J(12034),C,5 x,C=B[x],J(12049)x=x(B,C,i)i=x x=not i x=x and 16638229 or 7379903 end end end end end else if x<4560703 then if 2065775>x then if x<1521173 then if x>676512 then if 1222266>x then x=721985>434916 s[f[1]]=x C,x={},K[J(11993)]else G=J(12039)x=K[G]z,j=1,J(11980)G=x(z)O=s[f[3]]z=O[j]O=J(11972)O=z[O]O=O(z)G,x=O,O and 9490432 or 12586757 end else if x<334185 then B=J(12048)C=K[B]B=J(12039)x=C[B]B=10 C=x(B)B=s[f[2]]x,C=B and 10044804 or 11187333,B elseif 367611>x then V=s[f[2]]l,x=not V,15229266 y=l else u,y=J(12012),0 x=K[u]u=J(11986)x[u]=y x=2919553 end end else if 1813109>x then if x<1652040 then B=s[f[1]]C,x=B,B and 9701763 or 11737311 elseif x<1728247 then x,C=K[J(12040)],{}else x=4089305 B=s[f[2]]C=B end else if 1968684>x then C,x={},K[J(11968)]else C,x={},K[J(11987)]end end end else if x>3529833 then if x>3960485 then if 4270636>x then x=C and 13886384 or 10833922 else G=s[f[2]]C,x=G,12486698 end else if 3637759>x then j,O=J(11977),J(11977)z=G[O]O=B[j]C=z-O z,W=J(12026),J(11996)x=C[z]C=s[f[2]]z,y=x,J(11998)x=z/C O=x x=s[f[3]]u=K[y]y=J(12007)j=u[y]V=K[W]W=J(12045)l=V[W]V=J(11985)y=l[V]C=J(12001)u=j(O,y)y=J(12044)j,C={[y]=B},x[C]C=C(x,G,u,j)s[f[4]]=C j=J(12031)x=s[f[4]]y,j=J(12047),x[j]j=j(x)j=p()x=4559059>13368994 s[j]=x u=s[f[4]]x=u[y]u=J(12003)u=x[u]y=H(979628,{j})u=u(x,y)x=i and 12058593 or 373397 elseif x<3779896 then x,B,i=9753800,nil,nil else B=J(12048)C=K[B]B=J(12030)x=C[B]B=s[f[3]]C=x(B)x=13304542 end end else if x>3120416 then if x<3416777 then u=s[f[8]]y=J(12011)x=u[y]u=J(11972)u=x[u]u=u(x)x=14357188 else x=C and 11289507 or 12526194 end else if 2482736>x then x=13302468 elseif 2897240>x then u,x=y,l x=12466190 else x=14357188 end end end end else if 7339278>x then if 5951853>x then if x>5436067 then if x<5545522 then i,x,C=J(12012),15005945<11942291,13077657<6945352 s[f[1]]=x s[f[2]]=C B=K[i]G=s[f[3]]i=J(11986)B[i]=G B=s[f[4]]x=B and 8156955 or 7333042 else x=3512274 B=s[f[2]]C=B end else if 4730310>x then x,C=K[J(12025)],{}elseif 5112493>x then C,x={},K[J(12041)]else i=J(11997)C=s[f[3]]O,B,z=134,J(11992),J(11982)C[B]=i B=J(12005)C=s[f[3]]G=K[z]z,j=J(11979),255 i=G[z]z=58 G=i(z,O,j)C[B]=G B=J(12012)C=K[B]i=s[f[4]]B=J(11986)C[B]=i C=s[f[5]]x=C and 6717943 or 13573405 end end else if x>6876796 then if x<7184346 then x=s[f[5]]W=s[f[4]]V=#W l=j==V j=nil y=x(u,l)x,u=6420797,nil else i=J(12000)B=s[f[5]]x,i,C=K[J(12015)],B[i],{}i=i(B)end else if x<6335894 then x=1464905 elseif 6569370>x then z,u=O(G,z)x=z and 7444312 or 9016114 else C=s[f[5]]x,B=13573405,J(12019)B=C[B]B=B(C)end end end else if x>8586534 then if 9106125>x then x=s[f[2]]x=x and 6250992 or 3728126 elseif 9343284>x then C=s[f[2]]x=not C s[f[2]]=x B=s[f[2]]C=not B x=C and 5433804 or 12971317 elseif x<9596097 then x=G and 11568519 or 1464905 else x=11737311 B=s[f[2]]C=B end else if 7791823>x then if x<7362708 then i,x,B=5,J(12034),C C,x=J(12049),B[x]x=x(B,C,i)i=x C,x=i,i and 4451968 or 12486698 elseif x<7412107 then C=J(11990)x=K[C]O=s[f[4]]j={x(O)}G,C,x=j[2],j[1],6420797 O,z=C,j[3]else V=s[f[1]]l,j=not V,z x,y=l and 15229266 or 361826,l end else if 8148144>x then G=C x=not G x=x and 4669438 or 3547393 else i,x=J(12019),7333042 B=s[f[4]]i=B[i]i=i(B)end end end end end end end x=#R return I(C)end,function(K)local J,x=1,K[1]while x do B[x],J=B[x]-1,1+J if B[x]==0 then B[x],s[x]=nil,nil end x=K[J]end end,function(K)for J=1,#K,1 do B[K[J]]=1+B[K[J]]end if w then local x=w(true)local I=R(x)I[J(12010)],I[J(11991)],I[J(11973)]=K,z,function()return-548260 end return x else return f({},{[J(11991)]=z;[J(12010)]=K;[J(11973)]=function()return-548260 end})end end,{},function(K,J)local I=G(J)local w=function(w,f,R,d,C)return x(K,{w,f;R;d,C},J,I)end return w end,function(K,J)local I=G(J)local w=function(...)return x(K,{...},J,I)end return w end,{},function(K)B[K]=B[K]-1 if B[K]==0 then B[K],s[K]=nil,nil end end return(O(12248557,{}))(I(C))end)(select,getmetatable,newproxy,unpack or table[J(12017)],getfenv and getfenv()or _ENV,{...},setmetatable)end)(...)
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local player = Players.LocalPlayer
+local gravityNormal = workspace.Gravity
+local isRunning = false
+local speed = 375
+local currentTween = nil
+local destinations = {
+    CFrame.new(-43.6134491, 62.1137619, 672.744934, -0.999842644, -0.00183729955, 0.017645346, 0, 0.994622767, 0.103564225, -0.0177407414, 0.103547923, -0.994466245),
+    CFrame.new(-60.1504707, 97.4659729, 8767.91406, -0.99889338, 0.000705028593, 0.0470264405, 0, 0.999887645, -0.0149902813, -0.047031723, -0.0149736926, -0.998781145),
+    CFrame.new(-54.331871, -345.398346, 9488.60645, -0.98221302, 0, 0.187770084, 0, 1, 0, -0.187770084, 0, -0.98221302),
+}
+
+-- Глобальный флаг для полной остановки фоновых процессов персонажа
+local isScriptAlive = true
+
+-- Создание UI 
+local screenGui = Instance.new("ScreenGui", game.CoreGui)
+screenGui.Name = "AutoFarmUI"
+screenGui.ResetOnSpawn = false
+
+local menu = Instance.new("Frame")
+menu.Size = UDim2.fromOffset(260, 185) 
+menu.Position = UDim2.new(0.5, -130, 0.4, -92)
+menu.BackgroundColor3 = Color3.fromRGB(30, 30, 36)
+menu.BorderSizePixel = 0
+menu.Active = true
+menu.Draggable = true
+menu.Parent = screenGui
+
+local menuCorner = Instance.new("UICorner")
+menuCorner.CornerRadius = UDim.new(0, 10)
+menuCorner.Parent = menu
+
+-- Заголовок меню
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(0.6, 0, 0, 28)
+title.Position = UDim2.new(0.08, 0, 0, 8)
+title.BackgroundTransparency = 1
+title.Text = "AutoFarm Panel"
+title.TextColor3 = Color3.fromRGB(220, 220, 225)
+title.Font = Enum.Font.Gotham
+title.TextSize = 14
+title.TextXAlignment = Enum.TextXAlignment.Left
+title.Parent = menu
+
+-- Кнопка закрытия интерфейса (X)
+local close = Instance.new("TextButton")
+close.Size = UDim2.new(0, 28, 0, 28)
+close.Position = UDim2.new(1, -36, 0, 8)
+close.Text = "×"
+close.Font = Enum.Font.Gotham
+close.TextSize = 22
+close.BackgroundColor3 = Color3.fromRGB(60, 60, 65)
+close.TextColor3 = Color3.new(1, 1, 1)
+close.Parent = menu
+
+local closeCorner = Instance.new("UICorner")
+closeCorner.CornerRadius = UDim.new(0, 6)
+closeCorner.Parent = close
+
+-- Кнопка Старт / Стоп
+local toggle = Instance.new("TextButton")
+toggle.Size = UDim2.new(0.86, 0, 0.32, 0)
+toggle.Position = UDim2.new(0.07, 0, 0.28, 0)
+toggle.Text = "Start AutoFarm"
+toggle.Font = Enum.Font.Gotham
+toggle.TextSize = 15
+toggle.BackgroundColor3 = Color3.fromRGB(58, 134, 255)
+toggle.TextColor3 = Color3.new(1, 1, 1)
+toggle.Parent = menu
+
+local toggleCorner = Instance.new("UICorner")
+toggleCorner.CornerRadius = UDim.new(0, 8)
+toggleCorner.Parent = toggle
+
+-- Кнопка ПОЛНОГО УНИЧТОЖЕНИЯ Скрипта
+local destroyBtn = Instance.new("TextButton")
+destroyBtn.Size = UDim2.new(0.86, 0, 0.26, 0)
+destroyBtn.Position = UDim2.new(0.07, 0, 0.66, 0)
+destroyBtn.Text = "Destroy Script"
+destroyBtn.Font = Enum.Font.Gotham
+destroyBtn.TextSize = 13
+destroyBtn.BackgroundColor3 = Color3.fromRGB(230, 50, 50)
+destroyBtn.TextColor3 = Color3.new(1, 1, 1)
+destroyBtn.Parent = menu
+
+local destroyCorner = Instance.new("UICorner")
+destroyCorner.CornerRadius = UDim.new(0, 8)
+destroyCorner.Parent = destroyBtn
+
+
+-- Функция полной очистки и вырубания кода
+local function selfDestroy()
+    isScriptAlive = false
+    isRunning = false
+    workspace.Gravity = gravityNormal
+    if currentTween then currentTween:Cancel() end
+    screenGui:Destroy()
+end
+
+close.MouseButton1Click:Connect(selfDestroy)
+destroyBtn.MouseButton1Click:Connect(selfDestroy)
+
+local function moveTo(targetCFrame, setGravity)
+    local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+    if not root then return end
+    local distance = (root.Position - targetCFrame.Position).Magnitude
+    local duration = distance / speed
+    currentTween = TweenService:Create(root, TweenInfo.new(duration, Enum.EasingStyle.Linear), {CFrame = targetCFrame})
+    currentTween:Play()
+    local reached = false
+    currentTween.Completed:Connect(function()
+        reached = true
+    end)
+    if setGravity then
+        workspace.Gravity = gravityNormal
+    else
+        workspace.Gravity = 0
+    end
+    while not reached and isRunning and isScriptAlive do
+        RunService.Heartbeat:Wait()
+    end
+end
+
+task.spawn(function()
+    while isScriptAlive do
+        task.wait(10)
+        if isRunning and isScriptAlive then
+            VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.K, false, game)
+            VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.K, false, game)
+        end
+    end
+end)
+
+local function autoFarmLoop()
+    while isRunning and isScriptAlive do
+        local char = player.Character or player.CharacterAdded:Wait()
+        local root = char:WaitForChild("HumanoidRootPart", 5)
+        if not root then return end
+        for i, cf in ipairs(destinations) do
+            if not isRunning or not isScriptAlive then return end
+            moveTo(cf, i == #destinations)
+        end
+        if isScriptAlive then
+            repeat wait(1) until player.CharacterAdded:Wait() or not isScriptAlive
+        end
+    end
+end
+
+toggle.MouseButton1Click:Connect(function()
+    if not isScriptAlive then return end
+    isRunning = not isRunning
+    if not isRunning then
+        toggle.Text = "Start AutoFarm"
+        toggle.BackgroundColor3 = Color3.fromRGB(58, 134, 255)
+        workspace.Gravity = gravityNormal
+        if currentTween then currentTween:Cancel() end
+    else
+        toggle.Text = "Stop AutoFarm"
+        toggle.BackgroundColor3 = Color3.fromRGB(46, 196, 182)
+        task.spawn(autoFarmLoop)
+    end
+end)
+
+player.CharacterAdded:Connect(function()
+    if isRunning and isScriptAlive then
+        task.spawn(autoFarmLoop)
+    end
+end)
+
+player.CharacterAdded:Connect(function()
+    if isRunning and isScriptAlive then
+        local char = player.Character or player.CharacterAdded:Wait()
+        local root = char:WaitForChild("HumanoidRootPart", 5)
+        if root and isScriptAlive then
+            wait(1)
+            if isScriptAlive then
+                moveTo(destinations, false)
+                task.spawn(autoFarmLoop)
+            end
+        end
+    end
+end)
